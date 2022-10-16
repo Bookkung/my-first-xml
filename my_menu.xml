@@ -1,0 +1,32 @@
+<menu>
+  <food>
+    <name>Pizza</name>
+    <price>$20</price>
+    <calorie>560</calorie>
+  </food>
+  <food>
+    <name>Hotdog</name>
+    <price>$20</price>
+    <calorie>560</calorie>
+  </food>  
+  <food>
+    <name>Porkshop</name>
+    <price>$25</price>
+    <calorie>490</calorie>
+  </food>
+  <food>
+    <name>Timsum</name>
+    <price>$10</price>
+    <calorie>320</calorie>
+  </food>
+  <food>
+    <name>Spaghetti</name>
+    <price>$30</price>
+    <calorie>400</calorie>
+  </food>
+  <food>
+    <name>Noodle</name>
+    <price>$8</price>
+    <calorie>275</calorie>
+  </food>
+</menu>
